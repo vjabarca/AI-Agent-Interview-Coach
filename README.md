@@ -4,7 +4,7 @@
 ![CrewAI](https://img.shields.io/badge/Framework-CrewAI-FF5A50)
 ![OpenAI](https://img.shields.io/badge/LLM-GPT--4o-412991?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Runs%20on-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+![Status](https://img.shields.io/badge/status-beta-yellowgreen)
 [![License](https://img.shields.io/github/license/vjabarca/AI-Agent-Interview-Coach)](LICENSE)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vjabarca/AI-Agent-Interview-Coach/blob/main/AI_Agent_Interview_Coach.ipynb)
